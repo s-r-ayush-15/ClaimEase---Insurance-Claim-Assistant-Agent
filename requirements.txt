@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+python-dotenv
+PyPDF2
+PyMuPDF
+reportlab
+transformers
+torch
