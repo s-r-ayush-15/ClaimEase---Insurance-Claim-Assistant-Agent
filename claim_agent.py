@@ -1,7 +1,6 @@
 # claim_agent.py
 
 import os
-from dotenv import load_dotenv
 import google.generativeai as genai
 
 api_key = os.getenv("GEMINI_API_KEY")
