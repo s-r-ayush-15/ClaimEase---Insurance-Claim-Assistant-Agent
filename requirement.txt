@@ -1,8 +1,8 @@
 streamlit
-openai
-pdfplumber
-fpdf
+google-generativeai
+python-dotenv
+PyPDF2
+PyMuPDF
+reportlab
 transformers
 torch
-reportlab
-
