@@ -1,0 +1,8 @@
+streamlit
+openai
+pdfplumber
+fpdf
+transformers
+torch
+reportlab
+
